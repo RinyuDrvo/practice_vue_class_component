@@ -1,0 +1,33 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://RinyuDrvo:8840901yu@github.com/RinyuDrvo/practice_vue_class_component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RinyuDrvo/practice_vue_class_component/issues"
+  },
+  "homepage": "https://github.com/RinyuDrvo/practice_vue_class_component#readme",
+  "dependencies": {
+    "vue": "^2.6.11",
+    "vue-class-component": "^7.2.3",
+    "vue-property-decorator": "^8.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.1",
+    "html-loader": "^1.1.0",
+    "ts-loader": "^7.0.1",
+    "typescript": "^3.8.3",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
