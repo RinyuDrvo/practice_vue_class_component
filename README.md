@@ -1,1 +1,2 @@
-# practice_vue_class_component
+題名にpractice_vue_class_componentってあるけど
+実際TypeScriptの勉強
